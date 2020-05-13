@@ -11,4 +11,8 @@ In this project, we studied different morning setups of shared scooters in Louis
 
 我在此项目里扮演的角色主要是帮助设计支撑仿真系统的数学模型，尝试将随机过程中的一些理论概念应用进去并写报告以证明其正当性。我同时还跟组员一起全程参与对项目问题的思考和仿真系统的设计建造。
 
+Louisville Scooters.pptx是我们项目的展示幻灯片。
+Scooters Data Analysis.ipynb 是我们项目的源代码。
+report.pdf 是我们项目的书面报告。
+其余的csv文档是我们项目用到的数据，export中是根据数据生成出来的路易斯维尔市内的滑板车流动的分布图。
 
